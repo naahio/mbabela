@@ -1,4 +1,8 @@
 
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/c0/4e/9f/c04e9fb22958ed39058811ed3488872c.gif"/>
+</div>
+
 ## 🚀 About Me
 I am a punctual person, with a lot of spirit and motivation to work on new
 projects. I give it a lot of time and effort. Always open on taking new
@@ -37,7 +41,5 @@ projects.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naahio&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
