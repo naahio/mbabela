@@ -12,7 +12,7 @@ projects.
 
 # Hi, I'm Mohamed! 👋
  <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/red/mbabela" alt="mbabela's 42 stats" /></a>
+<a href="https://profile.intra.42.fr"><img src="https://badge.mediaplus.ma/red/mbabela" alt="mbabela's 42 stats" /></a>
 </p>
 
 ## 🔗 Links
