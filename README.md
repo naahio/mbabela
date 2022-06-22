@@ -16,7 +16,6 @@ projects.
 
 
 ## 🔗 Links
-[![linkedin]](www.linkedin.com/in/mohamadbabela-038b80190)
 
 
 ## Other Common Github Profile Sections
