@@ -13,7 +13,7 @@ projects.
 # Hi, I'm Mohamed! 👋
  <p align="center">
 <a href="https://profile.intra.42.fr"><img src="https://badge.mediaplus.ma/red/mbabela" alt="mbabela's 42 stats" /></a>
-</p>
+
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamadbabela-038b80190)
@@ -41,5 +41,5 @@ projects.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naahio&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+</p>
 
